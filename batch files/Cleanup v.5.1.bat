@@ -10,8 +10,6 @@ del /s /f /q C:\Windows\Temp\*.*
 
 del /s /f /q %USERPROFILE%\appdata\local\temp\*.*
 
-rd /s /q %systemdrive%\$Recycle.bin
-
 
 /Below command to Show the folder after deleted files
 
